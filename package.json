@@ -9,6 +9,7 @@
     "Git",
     "CLI"
   ],
+  "type": "module",
   "author": "shashwat",
   "license": "ISC",
   "description": "",
